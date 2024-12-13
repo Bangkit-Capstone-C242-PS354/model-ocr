@@ -1,3 +1,4 @@
----
-license: cc-by-4.0
----
+## Tech Stack
+- Tensorflow
+- Hugging Face
+- Easy OCR
